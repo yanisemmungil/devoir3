@@ -1,4 +1,0 @@
-POSTGRES_PASSWORD=lucbertin
-POSTGRES_USER=test
-POSTGRES_DB=world
-PGDATA=/var/lib/postgresql/data
